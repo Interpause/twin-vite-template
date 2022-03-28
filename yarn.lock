@@ -2950,28 +2950,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"onnx-test@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "onnx-test@workspace:."
-  dependencies:
-    "@babel/core": ^7.17.8
-    "@emotion/babel-plugin": ^11.7.2
-    "@emotion/react": ^11.8.2
-    "@emotion/styled": ^11.8.1
-    "@types/react": ^17.0.33
-    "@types/react-dom": ^17.0.10
-    "@vitejs/plugin-react": ^1.0.7
-    "@yarnpkg/sdks": ^2.6.0
-    babel-plugin-macros: ^3.1.0
-    prettier: ^2.6.1
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    twin.macro: ^2.8.2
-    typescript: ^4.6.3
-    vite: ^2.8.6
-  languageName: unknown
-  linkType: soft
-
 "p-cancelable@npm:^2.0.0":
   version: 2.1.1
   resolution: "p-cancelable@npm:2.1.1"
@@ -3821,6 +3799,28 @@ __metadata:
   checksum: c362948df9ad34b649b5585e54ce2838fa583aa3037091aaed66793c65b423a264e5229f0d7e9a95513a795ac2bd4cb72cda7e89a74313f182c1e9ae0b0994fa
   languageName: node
   linkType: hard
+
+"twin-vite-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "twin-vite-template@workspace:."
+  dependencies:
+    "@babel/core": ^7.17.8
+    "@emotion/babel-plugin": ^11.7.2
+    "@emotion/react": ^11.8.2
+    "@emotion/styled": ^11.8.1
+    "@types/react": ^17.0.33
+    "@types/react-dom": ^17.0.10
+    "@vitejs/plugin-react": ^1.0.7
+    "@yarnpkg/sdks": ^2.6.0
+    babel-plugin-macros: ^3.1.0
+    prettier: ^2.6.1
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    twin.macro: ^2.8.2
+    typescript: ^4.6.3
+    vite: ^2.8.6
+  languageName: unknown
+  linkType: soft
 
 "twin.macro@npm:^2.8.2":
   version: 2.8.2

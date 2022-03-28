@@ -1,7 +1,11 @@
 {
-  "name": "onnx-test",
+  "name": "twin-vite-template",
   "private": true,
   "version": "0.0.0",
+  "description": "Vite + React + twin.macro + Yarn 2 Zero-Installs",
+  "author": "John-Henry Lim <hyphen@interpause.dev> (https://interpause.dev/)",
+  "repository": "https://github.com/Interpause/twin-vite-template.git",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
