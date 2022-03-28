@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
-import 'twin.macro'
 import tw, { css, styled } from 'twin.macro'
+
+import logo from './assets/logo.svg'
+import './assets/App.css'
 
 /* twin.macro styled component */
 const RedText = tw.p`text-red-400`

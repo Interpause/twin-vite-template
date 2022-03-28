@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { GlobalStyles as BaseStyles } from 'twin.macro'
 
-import './index.css'
+import './assets/index.css'
 import App from './App'
 
 ReactDOM.render(
