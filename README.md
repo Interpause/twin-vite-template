@@ -1,6 +1,6 @@
 # twin-vite-template
 
-A React framework template that uses the following:
+A Preact framework template that uses the following:
 
 - Vite
 - twin.macro
