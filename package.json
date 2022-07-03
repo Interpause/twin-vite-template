@@ -1,7 +1,7 @@
 {
   "name": "twin-vite-template",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vite + Preact + twin.macro + Yarn 2 Zero-Installs",
   "author": "John-Henry Lim <hyphen@interpause.dev> (https://interpause.dev/)",
   "repository": "https://github.com/Interpause/twin-vite-template.git",
